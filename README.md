@@ -1,6 +1,6 @@
 # 🔒 Lexyra Privacy Policy
 
-The official privacy policy for **[Lexyra](https://lexyra.onrender.com/)**, an AI-powered writing-enhancement application.
+The official privacy policy for **[Lexyra](https://lexyra.onrender.com/)**, an AI-powered writing-enhancement application. 
 
 ## 🌐 Published Policy
 
